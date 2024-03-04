@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**lyeapp/lyeapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi Friends! I'm [Lyea P P], a [Python Developer] from India. I'm passionate about Designing ,codding etc and I love to make connections.
+
+## Skills
+
+- Programming Languages: [Python,c,c#]
+- Web Technologies: [HTML,CSS,Javascript]
+- Databases: [SQL]
+
+## Get in Touch
+- LinkedIn: https://www.linkedin.com/in/lyea-p-p-b99a21129/
+- Email:lyeapaul@gmail.com
+
+Feel free to reach out to me! I'm always open to collaboration and new opportunities.
+
+## Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+Thank you for visiting my GitHub profile! Have a great day! 😊
