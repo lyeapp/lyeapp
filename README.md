@@ -2,10 +2,10 @@
 # Welcome to my GitHub Profile! 👋
 
 ## About Me
-<p>
+
 <img align="right" src="https://github.com/lyeapp/lyeapp/assets/104055190/6bf23534-99c5-4971-82dd-28bc462f4716" alt="gif" width="300" height="300" >
 
-
+<p align="left">
 Hi Friends! I'm [Lyea P P], a [Python Developer] from India. I'm passionate about Designing ,codding etc and I love to make connections.
 </p>
 
