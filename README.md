@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/lyeapp/lyeapp/assets/104055190/6bf23534-99c5-4971-82dd-28bc462f4716" alt="gif" width="300" height="300" >
 
 
-Hi Friends! I'm [Lyea P P], a [Python Developer] from India. I'm passionate about Designing ,codding etc and I love to make connections.
+Hi Friends! I'm [Lyea P P], a [Python Developer] from India. I'm passionate about Designing ,codding etc and I love to make connections.</p>
 
 ## Skills
 
@@ -25,4 +25,4 @@ Feel free to reach out to me! I'm always open to collaboration and new opportuni
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 Thank you for visiting my GitHub profile! Have a great day! 😊
-</p>
+
