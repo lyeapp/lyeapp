@@ -8,6 +8,9 @@
 <p align="left">
 Hi Friends! I'm [Lyea P P], a [Python Developer] from India.
 I'm passionate about Designing ,codding etc and I love to make connections.
+
+
+  
 </p>
 
 ## Skills
