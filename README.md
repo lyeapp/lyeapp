@@ -1,4 +1,4 @@
-
+[![MasterHead](https://community.saintleo.edu/wp-content/uploads/2016/03/Computer.jpg)
 # Welcome to my GitHub Profile! 👋
 
 ## About Me <img align="right" src="https://github.com/lyeapp/lyeapp/assets/104055190/6bf23534-99c5-4971-82dd-28bc462f4716" alt="gif" width="300" height="300" >
