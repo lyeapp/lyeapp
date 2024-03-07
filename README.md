@@ -1,4 +1,4 @@
-![logo](https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=| width=500)
+![logo](https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=)
 # Welcome to my GitHub Profile! 👋
 
 ## About Me <img align="right" src="https://github.com/lyeapp/lyeapp/assets/104055190/6bf23534-99c5-4971-82dd-28bc462f4716" alt="gif" width="300" height="300" >
