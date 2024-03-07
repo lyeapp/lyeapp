@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.VDBB4jbW3WWAPceAAAvJpAHaDz?w=332&h=179&c=7&r=0&o=5&pid=1.7)
+![MasterHead](https://th.bing.com/th/id/OIP.VDBB4jbW3WWAPceAAAvJpAHaDz?w=332&h=179&c=7&r=0&o=5&pid=1.7)
 # Welcome to my GitHub Profile! 👋
 
 ## About Me <img align="right" src="https://github.com/lyeapp/lyeapp/assets/104055190/6bf23534-99c5-4971-82dd-28bc462f4716" alt="gif" width="300" height="300" >
