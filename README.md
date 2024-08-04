@@ -20,7 +20,7 @@ I'm passionate about Designing ,codding etc and I love to make connections.
 - Databases: [SQL]
 
 ## Get in Touch
-- LinkedIn: https://www.linkedin.com/in/lyea-p-p-b99a21129/
+- LinkedIn: https://www.linkedin.com/in/lyea-polachan/
 - Email:lyeapaul@gmail.com
 
 Feel free to reach out to me! I'm always open to collaboration and new opportunities.
